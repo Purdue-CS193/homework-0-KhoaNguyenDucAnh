@@ -5,7 +5,7 @@ class Khoa_Nguyen:
   def __init__(self):
     self.country = "Vietnam"
     self.school = "Purdue University"
-    self.class = 2028
+    self.year = 2028
     self.major = "CS"
     print("Hello World!")
 ```
