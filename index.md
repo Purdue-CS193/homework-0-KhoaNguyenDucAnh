@@ -1,5 +1,5 @@
-# Hi, I'm Khoa Nguyen!👋
----
+# Khoa Nguyen's First CS193 Homework 👋
+## About me
 ```python
 class Khoa_Nguyen:
   def __init__(self):
@@ -9,9 +9,7 @@ class Khoa_Nguyen:
     self.major = "CS"
     print("Hello World!")
 ```
-
-# Khoa Nguyen's First CS193 Homework
----
-- Useful illustration
-- Detailed instruction
-- Memes!
+##  What I like about CS 193
+- Super-duper detailed instruction
+- Useful and practical knowledge
+- And memes!
